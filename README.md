@@ -1,2 +1,2 @@
-# SI-GuidedProject-4584-1626949442
-https://github.com/ImAshishMaan/conversation-engine-for-deaf-and-dumb-people-ai-project
+# Conversation-engine-for-deaf-and-dumb-people
+AI model that recognizes the hand symbols through the camera and predicts the sign.
